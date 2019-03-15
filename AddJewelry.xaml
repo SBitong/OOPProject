@@ -1,0 +1,82 @@
+﻿<Window x:Class="OOP_project.AddJewelry"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOP_project"
+        mc:Ignorable="d"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="AddJewelry" Height="358" Width="387"
+        WindowStartupLocation="CenterScreen" 
+        >
+    <Grid Margin="0,0,2,-1">
+        <Rectangle Fill="MediumBlue"/>
+        <Rectangle Fill="OrangeRed" Margin="60,35,60.8,72.8"/>
+        <materialDesign:PackIcon Kind="PhilippinePeso" Margin="108,46,0,0" Height="34" Width="30" RenderTransformOrigin="0.471,0.498" />
+        <materialDesign:PackIcon Kind="PhilippinePeso" Margin="108,123,0,0" Height="34" Width="30" />
+        <materialDesign:PackIcon Kind="PhilippinePeso" Margin="108,85,0,0" Height="34" Width="30" />
+        <Button 
+            
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Top"
+                Width="75"
+                Margin="149,197,0,0" 
+                RenderTransformOrigin="1.04,0.35" 
+                Click="Button_Click"
+                Style="{DynamicResource MaterialDesignRaisedButton}"
+                materialDesign:ShadowAssist.ShadowDepth="Depth5">
+            Done
+        </Button>
+        <Label Content="21K:"
+               HorizontalAlignment="Left" 
+               VerticalAlignment="Top"
+               Margin="60,56,0,0" 
+               Height="38" 
+               Width="53"/>
+        <Label Content="18K:" 
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top" 
+               Margin="60,94,0,0"/>
+        <Label Content="10K:" 
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top" 
+               Margin="60,131,0,0"/>
+        <TextBox x:Name="txt21kvalue"
+                 HorizontalAlignment="Left" 
+                 Height="23" 
+                 TextWrapping="Wrap" 
+                 Text="" 
+                 VerticalAlignment="Top" 
+                 Width="144"
+                 Margin="143,57,0,0" 
+                 materialDesign:HintAssist.Hint="Enter Amount" />
+        <TextBox x:Name="txt18kvalue"
+                 HorizontalAlignment="Left" 
+                 Height="23" 
+                 Margin="143,97,0,0"
+                 TextWrapping="Wrap"
+                 Text="" 
+                 VerticalAlignment="Top"
+                 Width="144" 
+                 materialDesign:HintAssist.Hint="Enter Amount" />
+        <TextBox x:Name="txt10kvalue"
+                 HorizontalAlignment="Left"
+                 Height="23" 
+                 TextWrapping="Wrap" 
+                 Text="" 
+                 VerticalAlignment="Top" 
+                 Width="144"
+                 Margin="143,134,0,0" 
+                 materialDesign:HintAssist.Hint="Enter Amount" />
+
+
+
+    </Grid>
+</Window>

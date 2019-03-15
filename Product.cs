@@ -6,22 +6,25 @@ using System.Threading.Tasks;
 
 namespace OOP_project
 {
-    class Product
+    public class Product
     {
+       
         public string Name;
         public string Description;
-        public string Price;
+        public decimal Price;
         public string Manufacturer;
         public int Items;
+       
+       
 
-        public Product()
+        static void DeductItems(int items = 0)
         {
 
-        }
-
-        static void DeductItems(int items)
-        {
-            
+            if (items != 0)
+            {
+                items = items - items;
+            }
+            else items--;
         }
     }
 }

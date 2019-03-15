@@ -1,0 +1,54 @@
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\bin\Debug\OOP_project.exe.config
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\bin\Debug\OOP_project.exe
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\bin\Debug\OOP_project.pdb
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\OOP_project.csprojAssemblyReference.cache
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\MainWindow.g.cs
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\App.g.cs
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\OOP_project_MarkupCompile.cache
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\OOP_project_MarkupCompile.lref
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\MainWindow.baml
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\OOP_project.g.resources
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\OOP_project.Properties.Resources.resources
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\OOP_project.csproj.GenerateResource.cache
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\OOP_project.csproj.CoreCompileInputs.cache
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\OOP_project.exe
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\OOP_project.pdb
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\TransactionWindow.g.cs
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\TransactionWindow.baml
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\AddCustomer.g.cs
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\AddJewelry.g.cs
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\Window1.g.cs
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\AddCustomer.baml
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\AddJewelry.baml
+C:\Users\stobitong\source\repos\OOP_project\OOP_project\obj\Debug\Window1.baml
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\bin\Debug\OOP_project.exe.config
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\bin\Debug\OOP_project.exe
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\bin\Debug\OOP_project.pdb
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\OOP_project.csprojAssemblyReference.cache
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\AddCustomer.g.cs
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\AddJewelry.g.cs
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\MainWindow.g.cs
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\TransactionWindow.g.cs
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\Window1.g.cs
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\App.g.cs
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\OOP_project_MarkupCompile.cache
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\OOP_project_MarkupCompile.lref
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\AddCustomer.baml
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\AddJewelry.baml
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\MainWindow.baml
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\TransactionWindow.baml
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\Window1.baml
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\OOP_project.g.resources
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\OOP_project.Properties.Resources.resources
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\OOP_project.csproj.GenerateResource.cache
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\OOP_project.csproj.CoreCompileInputs.cache
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\OOP_project.exe
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\OOP_project.pdb
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\bin\Debug\MaterialDesignColors.dll
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\App.baml
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\OOP_project.csproj.CopyComplete
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\PaymentWindow.g.cs
+C:\Users\Stian Bitong\Downloads\OOP_project-20190227T143741Z-001\OOP_project\obj\Debug\PaymentWindow.baml

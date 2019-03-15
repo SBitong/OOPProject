@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP_project
 {
-    class Person
+    public class Person
     {
         public string FirstName;
         public string MiddleInitial;
@@ -14,19 +14,52 @@ namespace OOP_project
         public string BirthDate;
         public string Address;
 
-        public Person()
+
+
+        public Person(string firstName, string lastName, string middleName = " ")
         {
+            FirstName = firstName;
+            MiddleInitial = middleName;
+            LastName = lastName;
+
 
         }
 
-        static string GetFullName()
+        public string GetFullName()
         {
-            return null;
+
+            string fullname = "";
+            if (FirstName.Length > 1)
+                 fullname = char.ToUpper(FirstName[0]) + FirstName.Substring(1);
+
+
+
+            if (MiddleInitial.Length >= 1)
+                fullname = fullname + " " + char.ToUpper(MiddleInitial[0]) + "." /*+ MiddleInitial.Substring(1)*/;
+
+
+
+            if (LastName.Length > 1)
+                fullname = fullname + " " + char.ToUpper(LastName[0]) + LastName.Substring(1);
+
+
+
+            return fullname;
+
         }
 
-        static int GetAge()
+        public int GetAge()
         {
-            return 0;
+            return Calculations.CalculateAge(BirthDate);
+        }
+        private string FormatName(string name)
+        {
+            name = name.ToLower();
+            string[] names = name.Split(' ');
+            string formattedName = "";
+            for (int x = 0; x < names.Length; x++)
+                formattedName = formattedName + char.ToUpper(names[x][0]) + names[x].Substring(1) + " ";
+            return formattedName.Remove(formattedName.Length - 1);
         }
     }
 }

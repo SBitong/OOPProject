@@ -1,0 +1,95 @@
+﻿<Window x:Class="OOP_project.AddCustomer"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOP_project"
+        mc:Ignorable="d"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="AddCustomer" Height="450" Width="528.533" 
+        WindowStartupLocation="CenterScreen" >
+    <Grid>
+        <Rectangle Fill="CadetBlue" HorizontalAlignment="Left" Width="742"/>
+        <materialDesign:PackIcon Kind="Account" Height="44" Width="46" Margin="10,20,0,0" />
+        <materialDesign:PackIcon Kind="CalendarMultiselect" Margin="10,161,0,0" Height="38" Width="46" />
+        <materialDesign:PackIcon Kind="HouseCircle" Margin="10,211,0,0" Height="34" Width="46" />
+        <materialDesign:PackIcon Kind="Cellphone" Margin="14,250,0,0" Height="47" Width="38" />
+        <TextBox Name="txtFirstName"
+               HorizontalAlignment="Left" 
+               Height="41" TextWrapping="Wrap" 
+               Text="" 
+               VerticalAlignment="Top"
+               Width="267" 
+               Margin="64,20,0,0"
+               materialDesign:HintAssist.Hint="Enter First Name"
+               Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+        <TextBox Name="txtMiddleName"
+               HorizontalAlignment="Left" 
+               Height="41" TextWrapping="Wrap" 
+               Text="" 
+               VerticalAlignment="Top"
+               Width="267" 
+               Margin="64,66,0,0"
+               materialDesign:HintAssist.Hint="Enter Middle Name"
+               Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+        <TextBox Name="txtLastName"
+               HorizontalAlignment="Left" 
+               Height="41" TextWrapping="Wrap" 
+               Text="" 
+               VerticalAlignment="Top"
+               Width="267" 
+               Margin="64,112,0,0"
+               materialDesign:HintAssist.Hint="Enter Last Name"
+               Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+        <TextBox Name="txtBirthDate"
+               HorizontalAlignment="Left" 
+               Height="41" TextWrapping="Wrap" 
+               Text="" 
+               VerticalAlignment="Top"
+               Width="267" 
+               Margin="64,158,0,0"
+               materialDesign:HintAssist.Hint="Month/Day/Year"
+               Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+        <TextBox Name="txtAddress"
+               HorizontalAlignment="Left" 
+               Height="41" TextWrapping="Wrap" 
+               Text="" 
+               VerticalAlignment="Top"
+               Width="267" 
+               Margin="64,204,0,0" 
+               TextChanged="txtAddress_TextChanged"
+               materialDesign:HintAssist.Hint="Enter Address (Should be complete!)"
+               Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+        <Button 
+            
+               HorizontalAlignment="Left"
+               Width="75"
+               Margin="92,312,0,66" Click="Button_Click" Height="Auto"  Style="{DynamicResource MaterialDesignRaisedButton}"
+               materialDesign:ShadowAssist.ShadowDepth="Depth5">
+            Add
+        </Button>
+        <TextBox x:Name="txtContactNumber"
+            HorizontalAlignment="Left"
+            Height="47" 
+            TextWrapping="Wrap" 
+            Text= "" 
+            VerticalAlignment="Top"
+            Width="267" materialDesign:HintAssist.Hint="Enter Contact Number"
+  Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="64,245,0,0" />
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>
